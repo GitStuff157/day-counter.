@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Days Until I Can Quit</string>
+    <string name="change_timezone">Change timezone</string>
+    <string name="reset_start_date">Reset start date to now</string>
+    <string name="days_of_total">of %1$d days (15 years)</string>
+    <string name="days_remaining">%1$d days remaining</string>
+    <string name="progress_percent">%1$.2f%% complete</string>
+    <string name="start_date_label">Started: %1$s</string>
+    <string name="end_date_label">Estimated finish: %1$s</string>
+    <string name="milestone_reached">🎉 You made it! 15 years complete.</string>
+    <string name="reset_confirm_title">Reset start date?</string>
+    <string name="reset_confirm_message">This restarts the clock from right now and cannot be undone. Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_reset">Reset</string>
+    <string name="apply">Apply</string>
+</resources>
